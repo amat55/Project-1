@@ -1,0 +1,30 @@
+C:\Users\Ahmet\OneDrive\Masaüstü\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Ahmet\OneDrive\Masaüstü\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmet\OneDrive\Masaüstü\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\OneDrive\Masaüstü\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Ahmet\OneDrive\Masaüstü\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Ahmet\OneDrive\Masaüstü\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Ahmet\OneDrive\Masaüstü\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Ahmet\OneDrive\Masaüstü\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\User\Desktop\Programming\Java Team Superman\Ahmet\Yeni klasör\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\User\Desktop\Programming\Java Team Superman\Ahmet\Yeni klasör\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\User\Desktop\Programming\Java Team Superman\Ahmet\Yeni klasör\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\User\Desktop\Programming\Java Team Superman\Ahmet\Yeni klasör\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programming\Java Team Superman\Ahmet\Yeni klasör\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\Java Team Superman\Ahmet\Yeni klasör\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\User\Desktop\Programming\Java Team Superman\Ahmet\Yeni klasör\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\User\Desktop\Yeni klasör\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\User\Desktop\Yeni klasör\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\User\Desktop\Yeni klasör\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\User\Desktop\Yeni klasör\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yeni klasör\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yeni klasör\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\User\Desktop\Yeni klasör\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\sil\a\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\sil\a\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\sil\a\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\sil\a\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\sil\a\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+D:\sil\a\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\sil\a\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\sil\a\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
